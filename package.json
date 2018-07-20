@@ -1,0 +1,26 @@
+{
+  "name": "roughjs-typescript-example",
+  "version": "1.0.0",
+  "description": "Sample typescript project using rough.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshihn/roughjs-typescript-example.git"
+  },
+  "author": "Preet Shihn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pshihn/roughjs-typescript-example/issues"
+  },
+  "homepage": "https://github.com/pshihn/roughjs-typescript-example#readme",
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "roughjs": "^2.2.5"
+  }
+}
