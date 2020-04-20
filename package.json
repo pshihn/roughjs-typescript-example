@@ -17,10 +17,9 @@
   },
   "homepage": "https://github.com/pshihn/roughjs-typescript-example#readme",
   "devDependencies": {
-    "tslint": "^5.11.0",
-    "typescript": "^2.9.2"
+    "typescript": "^3.8.3"
   },
   "dependencies": {
-    "roughjs": "^2.2.5"
+    "roughjs": "^4.2.1"
   }
 }
